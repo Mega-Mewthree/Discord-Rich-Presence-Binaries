@@ -28,7 +28,7 @@ const client = require("discord-rich-presence")(clientID);
 client.updatePresence({
   details: details,
   state: state,
-  startTimestamp: Date.now() / 1000,
+  startTimestamp: startTimestamp,
   largeImageKey: largeImageKey,
   smallImageKey: smallImageKey,
   largeImageText: largeImageText,
