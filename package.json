@@ -1,0 +1,16 @@
+{
+  "name": "Rich-Presence-Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mega-Mewthree <nebuladevs@gmail.com> (https://github.com/Mega-Mewthree)",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "0.0.6",
+    "minimist": "^1.2.0"
+  }
+}
